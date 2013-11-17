@@ -20,4 +20,4 @@
 //= require grape_swagger_rails/backbone-min
 //= require grape_swagger_rails/swagger
 //= require grape_swagger_rails/swagger-ui
-//= require grape_swagger_rails/lib/highlight.7.3.pack
+//= require grape_swagger_rails/highlight.7.3.pack
