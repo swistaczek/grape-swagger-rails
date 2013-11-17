@@ -10,4 +10,14 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
-//= require_tree .
+//= require grape_swagger_rails/lib/shred.bundle
+//= require grape_swagger_rails/lib/jquery-1.8.0.min
+//= require grape_swagger_rails/lib/jquery.slideto.min
+//= require grape_swagger_rails/lib/jquery.wiggle.min
+//= require grape_swagger_rails/lib/jquery.ba-bbq.min
+//= require grape_swagger_rails/lib/handlebars-1.0.0
+//= require grape_swagger_rails/lib/underscore-min
+//= require grape_swagger_rails/lib/backbone-min
+//= require grape_swagger_rails/lib/swagger
+//= require grape_swagger_rails/swagger-ui
+//= require grape_swagger_rails/lib/highlight.7.3.pack
